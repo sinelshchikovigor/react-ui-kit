@@ -1,0 +1,23 @@
+{
+  "name": "react-ui-kit",
+  "version": "0.0.1",
+  "description": "React UI Components Library",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/sinelshchikovigor/react-ui-kit.git",
+    "type": "git"
+  },
+  "author": "Igor_Sinelshikov <sinelshikovigor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "0.14.49",
+    "@types/react-dom": "0.14.18",
+    "react": "15.4.0",
+    "react-dom": "15.4.0"
+  },
+  "devDependencies": {
+    "typescript": "2",
+    "webpack": "1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
