@@ -18,6 +18,12 @@
   version "0.14.49"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-0.14.49.tgz#983b773c91d341488e06d57ba677301b2cd9b846"
 
+"@types/react-addons-test-utils@0.14.15":
+  version "0.14.15"
+  resolved "https://registry.yarnpkg.com/@types/react-addons-test-utils/-/react-addons-test-utils-0.14.15.tgz#c786638e8ee197be0e7d4ac037d6146b39ef3e13"
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-dom":
   version "0.14.18"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-0.14.18.tgz#af4fb4092f433667f5f094e762b32c294e0010dc"
