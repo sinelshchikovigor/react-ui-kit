@@ -18,7 +18,7 @@ var common = {
         loaders: [
             {
                 test: /\.tsx?$/,
-                loaders: ["react-hot-loader", 'awesome-typescript-loader?forkChecker=true'],
+                loaders: ["react-hot-loader/webpack", 'awesome-typescript-loader?forkChecker=true'],
                 exclude: ["node_modules"]
             },
             {
