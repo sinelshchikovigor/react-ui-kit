@@ -8,3 +8,5 @@ script:
 - npm run build
 after_success:
 - coveralls
+notifications:
+  slack: react-ui-kit-project:RdAykQ4ON1eXu4x1bV1rWTmG
