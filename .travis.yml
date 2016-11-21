@@ -4,4 +4,5 @@ node_js:
 script:
 - npm install cross-env -global
 - npm install
+- npm test
 - npm run build

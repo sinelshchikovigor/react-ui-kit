@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-interface InputProps {
+export interface InputProps {
     /**
      * 'Input' component disaplyed value. 
      * 
@@ -10,7 +10,7 @@ interface InputProps {
     value?: string
 }
 
-interface InputState {
+export interface InputState {
     /**
      * 'Input' component disaplyed value.
      * 
